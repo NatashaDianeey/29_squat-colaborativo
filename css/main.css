@@ -1,12 +1,15 @@
 .bkgr{
-	background-color: gray;
+	background-color: white;
 }
 .logo-gif{
 	display: inline;
 	width: 30%;
 }
+.bkgr-nav{
+	background-color: gray
+}
 nav.navbar{
-	background-color: transparent;
+	background-color: gray;
 	border: transparent;
 }
 li a{
@@ -15,13 +18,16 @@ li a{
 
 h1{
 	display: inline;
+/* HEADER*/
 }
 /* CARRUSEL DE IMAGENES*/
   .carousel-inner > .item > img,
   .carousel-inner > .item > a > img {
       width: 100%;
   }
-
+.margen-carr{
+	padding: 2% 5% 5% 5%;
+}
 /* SECTION 1*/
 .logo3{
 	width: 80%;
@@ -74,5 +80,5 @@ h1{
 
 
 .bkgr-footer{
-	background-color: white;
+	background-color: gray;
 }
