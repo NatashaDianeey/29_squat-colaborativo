@@ -1,13 +1,12 @@
-.bkgr{
-	background-color: white;
-}
+
 .logo-gif{
 	display: inline;
+	margin-top: -5%;
 	width: 30%;
 }
 .bkgr-nav{
 	background-color: #A7EBB5;
-	height:180px;
+	height:130px;
 }
 nav.navbar{
 	background-color: #A7EBB5;
@@ -36,13 +35,13 @@ h3{
 	font-weight: bold;
 	margin: 4%;
 }
-h4{
+h4, p{
 	margin: 6% 10% 3% 2%;
 	font-size: 1.5em;
 }
 /* HEADER*/
 li a{
-	margin-top: 40%;
+	margin-top: 5%;
 }
 
 /* CARRUSEL DE IMAGENES*/
@@ -132,4 +131,8 @@ li a{
 	.logo3{
 	width: 88%;}
 
+	.logo-gif{
+		display: inline;
+		width: 40%
+	}
 	}
