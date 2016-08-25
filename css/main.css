@@ -1,0 +1,67 @@
+.bkgr{
+	background-color: gray;
+}
+.logo-gif{
+	display: inline;
+	width: 30%;
+}
+nav.navbar{
+	background-color: transparent;
+	border: transparent;
+}
+li a{
+	color: white !important;
+}
+
+h1{
+	display: inline;
+}
+/* CARRUSEL DE IMAGENES*/
+  .carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+      width: 100%;
+  }
+
+/* SECTION 1*/
+.logo3{
+	width: 80%;
+}
+
+.button {
+	color:#fff;
+	text-align:center;
+	font-size: 1em;
+	padding:1% 2%;
+	width:12%;
+	border: none;
+	border-radius: 25px;
+	box-shadow:0px 3px 0px #373c3c;
+	cursor:pointer;
+}
+.button-oran{
+	background-color: #F03C18;
+	margin-left: 45%;
+}
+
+/* Efecto en logos con link*/
+.img-text-hover {
+	width: 30%;
+	height: 30%;
+	line-height: 0px;
+	color: transparent; 
+	font-size: 2em;
+	text-align: center;
+	-webkit-transition: all 0.5s ease;
+	-moz-transition: all 0.5s ease;
+	-ms-transition: all 0.5s ease;
+	transition: all 0.5s ease;
+	}
+.img-text-hover:hover {
+	line-height: 90%;
+	color: #575858;
+	}
+.img-text-hover img{ 
+	float: bottom;
+	margin: 15% 15%;
+}
+/* Efecto en logos con link*/
